@@ -1,6 +1,6 @@
 # 1st RRF Training Repository
 
-The full text body of all trainings and documentation in the 1st Rapid Response Force (https://1st-rrf.com).
+The full text body of all trainings and documentation in the 1st Rapid Response Force (https://korps-mariniers.com).
 
 ## Build Order
 
